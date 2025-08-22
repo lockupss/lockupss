@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer from Ethiopia 🇪🇹</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=5C87F7&center=true&vCenter=true&width=500&lines=Passionate+Developer;React+%7C+Next.js+Expert;Docker+Enthusiast;Open-Source+Contributor;Problem+Solver" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=5C87F7&center=true&vCenter=true&width=550&lines=Passionate+Full-Stack+Developer;React+%7C+Next.js+Expert;Docker+Enthusiast;Database+Management;Open-Source+Contributor" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -45,6 +45,10 @@ I'm a passionate full-stack developer with expertise in modern web technologies.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Database & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### DevOps & Containers
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
